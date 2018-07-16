@@ -1,0 +1,18 @@
+HOUSE PROJECT
+
+(DONE) wireframe
+(DONE) style guide
+(DONE) illustration
+mockup
+design
+code
+
+
+
+Website
+
+landing page
+nav with logo
+h1 - heading - family
+call to action - get started
+review - *
