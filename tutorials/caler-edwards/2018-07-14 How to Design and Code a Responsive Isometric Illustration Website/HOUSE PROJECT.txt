@@ -3,8 +3,8 @@ HOUSE PROJECT
 (DONE) wireframe
 (DONE) style guide
 (DONE) illustration
-mockup
-design
+(DONE) mockup
+(DONE) design
 code
 
 
@@ -16,3 +16,8 @@ nav with logo
 h1 - heading - family
 call to action - get started
 review - *
+
+
+Changes
+
+change font P to 20px

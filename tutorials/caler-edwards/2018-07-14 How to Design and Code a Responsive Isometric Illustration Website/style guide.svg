@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="955.50004"
-     inkscape:cy="540.99998"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="363.51791"
+     inkscape:cy="634.04746"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,12 +100,12 @@
        inkscape:connector-curvature="0" />
     <text
        id="text5594"
-       y="69.411781"
+       y="69.411743"
        x="8.0453825"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.58333302px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#333333;stroke-width:0.59995359"
-         y="69.411781"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.63888931px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#333333;stroke-width:0.59995359"
+         y="69.411743"
          x="8.0453825"
          id="tspan5592"
          sodipodi:role="line">h1 This is my text</tspan></text>
@@ -113,45 +113,34 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79901028px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
        x="8.0453825"
-       y="97.912498"
+       y="100.84885"
        id="text5609"><tspan
          sodipodi:role="line"
          id="tspan5607"
          x="8.0453825"
-         y="97.912498"
+         y="100.84885"
          style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:8.8194437px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#333333;stroke-width:0.59995359">h2 This is my text</tspan></text>
     <text
        id="text5613"
-       y="110.59586"
+       y="114.24765"
        x="8.0453825"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79901028px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.11388874px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#333333;stroke-width:0.59995359"
-         y="110.59586"
+         y="114.24765"
          x="8.0453825"
          id="tspan5611"
          sodipodi:role="line">h3 This is my text</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79901028px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
-       x="8.0453825"
-       y="121.27658"
-       id="text5617"><tspan
-         sodipodi:role="line"
-         id="tspan5615"
-         x="8.0453825"
-         y="121.27658"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.59995359">p This is my text</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
        x="7.6888151"
-       y="84.323601"
+       y="86.54451"
        id="text5625"><tspan
          sodipodi:role="line"
          id="tspan5623"
          x="7.6888151"
-         y="84.323601"
+         y="86.54451"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#333333;stroke-width:0.59995359">h1 This is my text</tspan></text>
     <text
        xml:space="preserve"
@@ -291,5 +280,16 @@
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.05308481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 18.17123,233.27496 c -0.1588,0 -0.28667,0.12786 -0.28667,0.28667 v 0.58922 h -0.58921 c -0.15881,0 -0.28667,0.12786 -0.28667,0.28667 0,0.15881 0.12786,0.28667 0.28667,0.28667 h 0.58921 v 0.58921 c 0,0.15881 0.12787,0.28667 0.28667,0.28667 0.15881,0 0.28668,-0.12786 0.28668,-0.28667 v -0.58921 h 0.58921 c 0.15881,0 0.28667,-0.12786 0.28667,-0.28667 0,-0.15881 -0.12786,-0.28667 -0.28667,-0.28667 h -0.58921 v -0.58922 c 0,-0.15881 -0.12787,-0.28667 -0.28668,-0.28667 z"
        id="rect5759" />
+    <text
+       id="text4382"
+       y="126.70216"
+       x="8.0453825"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.79901028px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.59995359"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555582px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#333333;stroke-width:0.59995359"
+         y="126.70216"
+         x="8.0453825"
+         id="tspan4380"
+         sodipodi:role="line">p This is my text</tspan></text>
   </g>
 </svg>
