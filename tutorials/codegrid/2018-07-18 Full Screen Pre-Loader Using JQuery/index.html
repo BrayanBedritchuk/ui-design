@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>JQuery Preloader</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="master.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+</head>
+<body>
+    <div class="loading-page">
+        <div class="counter">
+            <h1>0</h1>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            var counter = 0;
+            var c = 0;
+            var i = setInterval(function () {
+
+               $(".loading-page .counter h1").html(c);
+               $(".loading-page").css("width", c + "%");
+
+               counter++;
+               c++;
+
+               if (counter > 100) {
+                   clearInterval(i);
+               }
+            }, 50);
+        });
+    </script>
+</body>
+</html>
