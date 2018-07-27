@@ -1,2 +1,2 @@
-# web-design
-Experiments, tutorials and everything else related to web design
+# ui-design
+Experiments, tutorials and everything else related to UI design
