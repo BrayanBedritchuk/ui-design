@@ -5,7 +5,7 @@ HOUSE PROJECT
 (DONE) illustration
 (DONE) mockup
 (DONE) design
-code
+(DONE) code
 
 
 
