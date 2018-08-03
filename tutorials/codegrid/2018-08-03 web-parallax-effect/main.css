@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: #333333;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-size: 400px;
+}
+
+.letters div {
+    position: absolute;
+}
+
+.letter1 {
+    top: 30%;
+    left: 0;
+}
+
+.letter2 {
+    top: 0%;
+    left: 20%;
+}
+
+.letter3 {
+    top: 50%;
+    left: 60%;
+}
+
+.letter4 {
+    top: 80%;
+    left: 80%;
+}
+
+.letter5 {
+    top: 120%;
+    left: 10%;
+}
+
+.letter6 {
+    top: 130%;
+    left: 20%;
+}
+
+.letter7 {
+    top: 220%;
+    left: 60%;
+}
+
+.letter8 {
+    top: 250%;
+    left: 10%;
+}
+
+.boxes div {
+    background: #80b3ff;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+}
+
+.box1 {  
+    top: 30%;
+    left: 4%;
+}
+
+.box2 {
+    top: 56%;
+    left: 60%;
+}
+
+.box3 {
+    top: 100%;
+    left: 12%;
+}
+
+.box4 {
+    top: 160%;
+    left: 50%;
+}
+
+.box5 {
+    top: 210%;
+    left: 12%;
+}
