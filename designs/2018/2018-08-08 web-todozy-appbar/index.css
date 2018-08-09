@@ -1,0 +1,35 @@
+@import "https://fonts.googleapis.com/css?family=Roboto";
+
+:root {
+    font-family: 'Roboto', sans-serif;
+    --colorPrimary: #2196F3;
+    --colorPrimaryDark: #1976D2;
+    --colorAccent: #00BFA5;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.statusbar {
+    height: 20px;
+    background-color: var(--colorPrimaryDark);
+}
+
+.toolbar {
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 30px;
+    background-color: var(--colorPrimary);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.toolbar h1 {
+    font-weight: 300;
+    color: #fff;
+    font-size: 20px;
+}
