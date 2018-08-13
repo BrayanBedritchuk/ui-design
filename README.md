@@ -1,1 +1,1 @@
-![Cover](designs\2018\2018-08-12cover.png)
+![Cover](cover.png)
