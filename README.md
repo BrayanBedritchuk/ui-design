@@ -1,2 +1,1 @@
-# ui-designs
-Experiments, tutorials and everything else related to UI design
+![Cover](designs\2018\2018-08-12 cover.png)
